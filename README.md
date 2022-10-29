@@ -1,7 +1,10 @@
 ### Hey! I'm Jared Desvuax de Marigny 👋
 
-🌱 I’m a student developer currently learning APEX/SOQL. I have some experience with JS, node.JS/Express etc and NO-SQL DB's like Mongoose.
-⚡ Fun fact: I'm also a professional drummer and run Auckland Drum School, in New Zealand.
+- 🌱 I’m a student developer currently learning APEX/SOQL. 
+
+- 🔭I have some experience with JS, node.JS/Express etc and NO-SQL DB's like Mongoose.
+
+- ⚡ Fun fact: I'm also a professional drummer and run Auckland Drum School, in New Zealand.
 
 
 <!--
