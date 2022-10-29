@@ -4,7 +4,7 @@
 
 - 🔭I have some experience with JS, node.JS/Express etc and NO-SQL DB's like MongoDB.
 
-- ⚡ Fun fact: I'm also a professional drummer and run Auckland Drum School, in New Zealand.
+- ⚡ Fun fact: I'm also a professional drummer and Co-Founded Auckland Drum School, in New Zealand.
 
 
 <!--
