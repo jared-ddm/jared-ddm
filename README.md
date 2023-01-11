@@ -1,8 +1,8 @@
 ### Hey! I'm Jared Desvuax de Marigny 👋
 
-- 🌱 I’m a student developer currently learning APEX/SOQL. 
+- 🌱 I’m a Salesforce Developer Intern. Currently working on learning more about Lightning Web Components.
 
-- 🔭I have some experience with JS, node.JS/Express etc and NO-SQL DB's like MongoDB.
+- 🔭I have some prior experience with JS, node.JS/Express, REST APIs, JWT/Auth etc. as well as NO-SQL DB's like MongoDB.
 
 - ⚡ Fun fact: I'm also a professional drummer and Co-Founded Auckland Drum School, in New Zealand.
 
