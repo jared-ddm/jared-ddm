@@ -1,6 +1,6 @@
 ### Hey! I'm Jared Desvuax de Marigny 👋
 
-- 🌱 I’m a Salesforce Developer Intern at Vector, currently learning more about using SOC through apex-commons libraries like [fflib.](https://github.com/apex-enterprise-patterns/fflib-apex-common).
+- 🌱 I’m a Salesforce Developer Intern at Vector, currently learning more about using SOC through apex-commons libraries like [fflib](https://github.com/apex-enterprise-patterns/fflib-apex-common).
 
 - 🔭I have some prior experience with JS, node.JS/Express, REST APIs, JWT/Auth etc. as well as NO-SQL DB's like MongoDB.
 
